@@ -1,111 +1,113 @@
-$a = 9;
-            echo "<br>";
+           
+            $a = 9;
+            echo "<p>";
             $b = 6;
 
-            echo "<br>";
+            echo "<p>";
 
             var_dump ($a + $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
            var_dump ($a - $b);
 
-            echo "<br>";
+           echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a * $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             echo $a / $b;
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a += $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a -= $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a *= $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a /= $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a == $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a != $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a > $b);
 
-            echo "<br>";
+            echo "<p>";
 
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a < $b);
 
-            echo "<br>";
+            echo "<p>";
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a || $b);
 
-            echo "<br>";
+            echo "<p>";
             $a = 11;
-            echo"<br>";
+            echo"<p>";
             $b = 6;
 
             var_dump ($a & $b);
 
+            
         ?>
