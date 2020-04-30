@@ -1,4 +1,5 @@
- $OndrejKubena1 = 1;
+ <?php
+$OndrejKubena1 = 1;
         $OndrejKubena2 = 1;
         if($OndrejKubena1 <=  $OndrejKubena2){
                echo "Ondra Kubena";
@@ -49,5 +50,6 @@
       );
 var_dump($produkty);     
  var_dump($produkty1); 
+ ?>
  
 
